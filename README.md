@@ -24,7 +24,7 @@ qr-code-attendance-system/ ├── main.py            # Main program ├──
 ## ⚡ How to Run
 1. Clone the repository:
    bash
-   git clone https://github.com/YourUsername/qr-code-attendance-system.git
+   git clone https://github.com/imaariz/qr-code-attendance-system.git
 
 2. Install dependencies:
 
